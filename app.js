@@ -1,17 +1,6 @@
-let a = 5;
-let b = 2;
-let myName = 'nico';
+//boolean = true or false
 
-// const 는 상수, const 값을 바꿀 수 없음.
-// let은 새로운 것을 생성할 때 사용 let 값을 바꿀 수 있음.
+//null : 아무것도없음 . 그 변수에 아무것도 없다.
 
-console.log(a + b);
-console.log(a * b);
-console.log(a / b);
-console.log('hello ' + myName);
-
-myName = 'nicolas';
-
-console.log('your new name is ' + myName);
-
-// const는 항상 쓰고, let은 가끔 쓰고, var는 절대 쓰지 말것.
+const amIFat = null;
+console.log(amIFat);
