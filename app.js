@@ -5,5 +5,6 @@ const player = {
 };
 
 console.log(player);
-player.fat = false;
+player.lastName = 'potato';
+player.points = 15;
 console.log(player);
