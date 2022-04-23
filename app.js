@@ -1,4 +1,7 @@
-const toBuy = ['potato', 'tomato', 'pizza'];
-toBuy.push('kimbab');
-
-console.log(toBuy[3]);
+const player = {
+    name: 'nico',
+    points: 10,
+    fat: true,
+};
+console.log(player);
+console.log(player.name);
